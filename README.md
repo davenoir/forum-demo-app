@@ -1,3 +1,8 @@
+Forum demo web application with CRUD operations and admin panel.
+Login credentials for testing purposes:
+e-mail: admin@admin.com
+password: admin123
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
