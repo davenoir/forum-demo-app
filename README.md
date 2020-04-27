@@ -1,6 +1,6 @@
 Forum demo web application with CRUD operations and admin panel.
 
-Login credentials for testing purposesare:
+Login credentials for testing purposes are:
 
 -e-mail: admin@admin.com
 
