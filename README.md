@@ -1,9 +1,10 @@
 Forum demo web application with CRUD operations and admin panel.
-Login credentials for testing purposes:
 
-e-mail: admin@admin.com
+Login credentials for testing purposesare:
 
-password: admin123
+-e-mail: admin@admin.com
+
+-password: admin123
 
 demo page: https://forum-demo.davenoir.mk
 
